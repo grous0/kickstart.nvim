@@ -1,5 +1,8 @@
 # kickstart.nvim
 
+> [!IMPORTANT]  
+> This is a version of kickstart.nvim that use vim.pack which is introduced in nightly Neovim. You need 0.12 version of Neovim to use vim.pack.
+
 ## Introduction
 
 A starting point for Neovim that is:
